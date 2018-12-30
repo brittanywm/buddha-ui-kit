@@ -1,6 +1,6 @@
 body {
   background-color: #242B38;
-  font-family: 'Varela Round', sans-serif;
+  font-family: 'Barlow', sans-serif;
 }
 
 .icons {
@@ -21,9 +21,9 @@ body {
   border: 1px solid #50EAFF;
   color: #50EAFF;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 15px;
   transition: width .8s;
-  width: 23px;
+  width: 20px;
   opacity: .7;
 }
 
@@ -36,7 +36,7 @@ body {
 }
 
 .btn:hover {
-  width: 120px;
+  width: 110px;
   background-color: rgba(0, 0, 0, 0.151);
   opacity: 1;
 }
