@@ -1,0 +1,52 @@
+body {
+  background-color: #242B38;
+  font-family: 'Barlow', sans-serif;
+}
+
+section {
+  margin-top: 100px;
+}
+
+.icons {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon {
+  width: 70px;
+}
+
+.btn-social-media {
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+  margin: 5px;
+  height: 40px;
+  border: 1px solid #50EAFF;
+  color: #50EAFF;
+  text-decoration: none;
+  font-size: 15px;
+  transition: width .8s;
+  width: 40px;
+  opacity: .7;
+}
+
+.btn--text {
+  position: absolute;
+  overflow: hidden;
+  left: 100%;
+  right: 0;
+  transition: ease .5s;
+}
+
+.btn-social-media:hover {
+  width: 140px;
+  background-color: rgba(0, 0, 0, 0.151);
+  opacity: 1;
+}
+
+.btn-social-media:hover .btn--text {
+  left: 40px;
+}
+
+
