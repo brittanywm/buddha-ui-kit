@@ -6,7 +6,7 @@ Responsive and interactive UI kit 🔮
 
 ## Getting Started
 
-Navigate to Accordion, Buttons-Social-Media, and Responsive-Nav to view source for individual components. 
+Navigate to Accordion, Buttons-Social-Media, and Responsive-Nav directories to view source for individual components. 
 
 ## Built With
 
