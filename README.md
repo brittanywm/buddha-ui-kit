@@ -11,6 +11,6 @@ Navigate to Accordion, Buttons-Social-Media, and Responsive-Nav directories to v
 ## Built With
 
 * CSS
-* Flexbox(https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+* [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 * JavaScript
 * [Font Awesome](https://fontawesome.com)
