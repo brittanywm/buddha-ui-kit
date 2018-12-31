@@ -1,0 +1,16 @@
+.demo-zone {
+  display: flex;
+  margin: 0 auto;
+}
+
+.section-social-media-icons {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+.accordion {
+  margin-top: 105px;
+  margin-left: 100px;
+  margin-right: 100px;
+}

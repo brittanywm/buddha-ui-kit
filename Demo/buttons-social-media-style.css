@@ -3,10 +3,6 @@ body {
   font-family: 'Barlow', sans-serif;
 }
 
-section {
-  margin-top: 100px;
-}
-
 .icons {
   display: flex;
   flex-direction: column;
@@ -40,7 +36,7 @@ section {
 }
 
 .btn-social-media:hover {
-  width: 140px;
+  width: 130px;
   background-color: rgba(0, 0, 0, 0.151);
   opacity: 1;
 }

@@ -1,11 +1,6 @@
-body {
-  background-color: #242B38;
-  font-family: 'Barlow', sans-serif;
-}
-
 .accordion {
-  margin: 0 auto;
-  max-width: 500px;
+  /* margin: 0 auto; */
+  max-width: 400px;
 }
 
 .tab {
@@ -54,6 +49,10 @@ body {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+}
+
+.content p {
+  padding: 16px 0;
 }
 
 .content:last-child {
